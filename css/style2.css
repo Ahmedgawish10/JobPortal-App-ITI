@@ -1,0 +1,10 @@
+/* .hidden{
+    display: none ;
+} */
+
+.hide{
+    display: none !important;
+}
+.active{
+    height: fit-content !important;
+}
