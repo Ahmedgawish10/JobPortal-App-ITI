@@ -19,5 +19,4 @@ Frontend: HTML, CSS, JavaScript<br>
 1-Clone the repository<br>
 2-Navigate to the project directory<br>
 3-Set up the database<br>
-4-Start the project on local server<br>
-  ● Use a local server environment like XAMPP or WAMP to run the application.
+4-Use a local server environment like XAMPP or WAMP to run the application.
