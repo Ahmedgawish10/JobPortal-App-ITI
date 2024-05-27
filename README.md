@@ -1,4 +1,4 @@
-<h1>Job Portal app</h1>
+<h1>Job Portal App</h1>
 This Job Portal application is developed using PHP and MySQL. The platform allows users to register as either an employee or a company.
 Companies can register to create and manage job postings, including the ability to disable job postings when necessary.<br>
 
@@ -13,3 +13,11 @@ Companies can register to create and manage job postings, including the ability 
 Backend: PHP<br>
 Database: MySQL<br>
 Frontend: HTML, CSS, JavaScript<br>
+
+🚀 Installation
+---
+1-Clone the repository
+2-Navigate to the project directory
+3-Set up the database
+4-Start the project on local server
+  ● Use a local server environment like XAMPP or WAMP to run the application.
