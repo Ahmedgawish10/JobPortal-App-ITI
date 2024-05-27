@@ -16,8 +16,8 @@ Frontend: HTML, CSS, JavaScript<br>
 
 🚀 Installation
 ---
-1-Clone the repository
-2-Navigate to the project directory
-3-Set up the database
+1-Clone the repository<br>
+2-Navigate to the project directory<br>
+3-Set up the database<br>
 4-Start the project on local server<br>
   ● Use a local server environment like XAMPP or WAMP to run the application.
